@@ -64,6 +64,17 @@
                     "brightness_lower": "Brightness Lower Value",
                     "brightness_upper": "Brightness Upper Value",
                     "color_temp": "Color Temperature",
+<<<<<<< HEAD
+                    "current_temperature_dp": "Current Temperature",
+                    "target_temperature_dp": "Target Temperature",
+                    "hvac_mode_dp": "HVAC Mode",
+                    "fan_mode_dp": "Fan Mode (optional)",
+                    "temperature_step": "Temperature Step (optional)",
+                    "max_temperature_dp": "Max Temperature (optional)",
+                    "min_temperature_dp": "Min Temperature (optional)",
+                    "precision": "Precision (optional, for DPs values)",
+                    "temperature_unit": "Temperature Unit (optional)"
+=======
                     "color": "Color",
                     "color_mode": "Color Mode",
                     "color_temp_min_kelvin": "Minimum Color Temperature in K",
@@ -75,6 +86,7 @@
                     "fan_speed_low": "Fan Low Speed Setting",
                     "fan_speed_medium": "Fan Medium Speed Setting",
                     "fan_speed_high": "Fan High Speed Setting"
+>>>>>>> master
                 }
             }
         }
@@ -116,6 +128,17 @@
                     "brightness_lower": "Brightness Lower Value",
                     "brightness_upper": "Brightness Upper Value",
                     "color_temp": "Color Temperature",
+<<<<<<< HEAD
+                    "current_temperature_dp": "Current Temperature",
+                    "target_temperature_dp": "Target Temperature",
+                    "hvac_mode_dp": "HVAC Mode",
+                    "fan_mode_dp": "Fan Mode (optional)",
+                    "temperature_step": "Temperature Step (optional)",
+                    "max_temperature_dp": "Max Temperature (optional)",
+                    "min_temperature_dp": "Min Temperature (optional)",
+                    "precision": "Precision (optional, for DPs values)",
+                    "temperature_unit": "Temperature Unit (optional)"
+=======
                     "color": "Color",
                     "color_mode": "Color Mode",
                     "color_temp_min_kelvin": "Minimum Color Temperature in K",
@@ -127,6 +150,7 @@
                     "fan_speed_low": "Fan Low Speed Setting",
                     "fan_speed_medium": "Fan Medium Speed Setting",
                     "fan_speed_high": "Fan High Speed Setting"
+>>>>>>> master
                 }
             },
             "yaml_import": {
